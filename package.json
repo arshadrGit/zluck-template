@@ -1,0 +1,7 @@
+{
+  "name": "react-native-template-zluck",
+  "version": "1.0.0",
+  "description": "My custom React Native template",
+  "keywords": ["react-native", "template"],
+  "files": ["template", "template.config.js"]
+}
