@@ -1,7 +1,20 @@
 {
   "name": "react-native-template-zluck",
   "version": "1.0.0",
-  "description": "My custom React Native template",
-  "keywords": ["react-native", "template"],
-  "files": ["template", "template.config.js"]
+  "description": "A custom React Native template for rapid app development",
+  "keywords": ["react-native", "template", "mobile"],
+  "author": "Arshad Rayeen arshadr@zluck.in",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arshadrGit/zluck-template.git"
+  },
+  "files": [
+    "template",
+    "template.config.js",
+    "post-init.sh"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  }
 }
